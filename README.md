@@ -1,4 +1,3 @@
-# Harmony_Bot
 # Harmony Bot
 
 Harmony Bot is an advanced, ready-to-deploy chatbot solution built using Flask and modern Natural Language Processing (NLP) techniques. It is designed for seamless user interaction, providing intelligent responses in real-time. This project is ideal for developers and organizations seeking an adaptable chatbot framework.

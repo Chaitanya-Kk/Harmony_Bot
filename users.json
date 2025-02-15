@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "username": "testuser",
+            "password": "password123"
+        },
+        {
+            "username": "Kayden",
+            "password": "password123"
+        },
+        {
+            "username": "12411508",
+            "password": "12411508"
+        },
+        {
+            "username": "user1",
+            "password": "user1"
+        },
+        {
+            "username": "yash",
+            "password": "yash"
+        },
+        {
+            "username": "3186",
+            "password": "154"
+        },
+        {
+            "username": "55487",
+            "password": "45789"
+        },
+        {
+            "username": "tester1",
+            "password": "pass@123"
+        },
+        {
+            "username": "testuser1",
+            "password": "pass@123"
+        },
+        {
+            "username": "testuser19",
+            "password": "pass@2025"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In - Chatbot</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="signin-container">
+            <header class="signin-header">
+                <h1>Chatbot Login</h1>
+            </header>
+            <div class="signin-box">
+                <form method="POST">
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" id="username" name="username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <div class="button-group">
+                        <button type="submit" name="action" value="signin" class="auth-button">Sign In</button>
+                        <button type="submit" name="action" value="signup" class="auth-button">Sign Up</button>
+                    </div>
+                    <button type="button" id="guest-button" onclick="window.location.href='/guest'">Continue as Guest</button>
+                    {% if error %}
+                        <p class="error">{{ error }}</p>
+                    {% endif %}
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

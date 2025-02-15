@@ -153,4 +153,4 @@ We welcome contributions to improve Harmony Bot! Follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Support
-For questions or issues, please contact `your-email@example.com`. We’re here to help!
+For questions or issues, please contact `chaitanya.kamble24@vit.edu`. We’re here to help!
